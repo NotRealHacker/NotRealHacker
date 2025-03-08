@@ -1,16 +1,14 @@
-## Hi there 👋
+# Mot_Real_Hacker()
 
-<!--
-**NotRealHacker/NotRealHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projcets:
+- [thinkpad-stufsz](https://github.com/NotRealHacker/thinkpad-stufsz)
+    - Thinkpad Resources
+- [Windows-7-Stuffz-4-Hackers](https://github.com/NotRealHacker/Windows-7-Stuffz-4-Hackers)
+    - Windows 7 Resources
+- [hacked-files](https://github.com/NotRealHacker/hacked-files)
+    - Dotfiles
+        - Alacritty
+        - i3
+        - rofi
+        - polybar
+        - user.js for firefox
