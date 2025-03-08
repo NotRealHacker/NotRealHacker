@@ -1,4 +1,4 @@
-# Mot_Real_Hacker()
+# Not_Real_Hacker()
 
 Projcets:
 - [thinkpad-stufsz](https://github.com/NotRealHacker/thinkpad-stufsz)
