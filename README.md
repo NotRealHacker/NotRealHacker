@@ -12,3 +12,4 @@ Projcets:
         - rofi
         - polybar
         - user.js for firefox
+<a href="https://app.daily.dev/notrealhacker"><img src="https://api.daily.dev/devcards/v2/PQNdwOXMIKSbDZ1NwFXbu.png?type=default&r=8ww" width="356" alt="Not_Real_Hacker()'s Dev Card"/></a>
